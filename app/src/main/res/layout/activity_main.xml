@@ -12,7 +12,8 @@
         android:layout_height="wrap_content"
         android:text="Ird be a neved:"
         android:textSize="30dp"
-        android:gravity="center"/>
+        android:gravity="center"
+        android:textAlignment="center"/>
 
     <EditText
         android:layout_width="match_parent"
